@@ -1,0 +1,1 @@
+# autopilot pattern nagios
